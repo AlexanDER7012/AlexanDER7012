@@ -7,7 +7,9 @@
 
 🌱 Soy Erick Palomo, desarrollador Backend en formación, explorando tecnologías para construir servidores, bases de datos y sistemas eficientes.
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-
+<div align="center" style="border:2px solid #4CAF50; border-radius:15px; padding:10px 20px; display:inline-block; background-color:#f0fdf4; font-weight:bold; font-size:18px;">
+  📖 Colosenses 3:23
+</div>
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
