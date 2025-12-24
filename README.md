@@ -66,4 +66,4 @@ Estado: Aprendiendo Data Structures
 
 [AlexanDER7012](https://github.com/AlexanDER7012)
 
-Last Edited on: 18/08/2025
+Last Edited on: 24/12/2025
